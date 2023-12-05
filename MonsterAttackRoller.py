@@ -10,7 +10,7 @@ pygame.init()
 WINDOW_HEIGHT = 1000
 WINDOW_WIDTH = 500
 WINDOW_SIZE = (WINDOW_WIDTH, WINDOW_HEIGHT)
-BG = pygame.image.load("MAR Assets/Other/MARBGvertical - Copy.jpg")
+BG = pygame.image.load("MAR Assets/Other/MARBGvertical.jpg")
 screen = pygame.display.set_mode(WINDOW_SIZE)
 pygame.display.set_caption("MAR")
 
