@@ -20,7 +20,7 @@ A Program made in Pygame. It's a convenient tool for dungeon masters. No need to
 - Nat 20s give double base damage
 
 ## Requirements
-- [Pygame](https://pypi.org/project/pygame/)
+- [pygame](https://pypi.org/project/pygame/)
 
 ## Usage
 1. Install the required Python package:
@@ -36,9 +36,9 @@ A Program made in Pygame. It's a convenient tool for dungeon masters. No need to
    ```
 
 ## File Structure
-- 'MAR Assets': Folder with mp3 files, png and jpg images
-- 'MonsterAttackRoller.py': Python script for running the game
-- 'buttons.py': Python module for the buttons used in the main file
+- `MAR Assets`: Folder with mp3 files, png and jpg images
+- `MonsterAttackRoller.py`: Python script for running the game
+- `buttons.py`: Python module for the buttons used in the main file
 
 ## Author
 Alex McKinley
