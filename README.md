@@ -1,6 +1,6 @@
 # DND-Monster-Attack-Roller-GUI
 
-![Preview Image](MAR%20Assets/Other/preview.jpg)
+<img src="MAR%20Assets/Other/preview.gif" width="200" height="600">
 
 A Program made in Pygame. It's a convenient tool for dungeon masters. No need to check stats, roll dice or calculate. Just move the slim window to the side of your screen and press the buttons of the most commonly used monster attacks to see attack, damage, and other effects.
 
